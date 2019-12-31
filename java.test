@@ -1,0 +1,13 @@
+public class javaprogram{
+public static void main(string args[]){
+int i,j;
+for(i=0;i<5;i++)
+{
+for(j=0;j<=i;j++)
+{
+system.out.print("*");
+}
+system.out.println();
+}
+}
+}
